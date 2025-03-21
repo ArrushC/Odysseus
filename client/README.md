@@ -1,0 +1,2 @@
+# Odysseus (Client)
+This is the client-side of the Odysseus application. The client is a React application that uses Tailwind CSS for styling. It's responsible for rendering the user interface and handling user interactions.
